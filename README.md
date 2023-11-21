@@ -30,7 +30,7 @@ Our website uses API functionality to provide you, the user, with **recipes, pho
 ## 💻 Usage
 
 ### Website Demo
-![Kumamo-demo](https://github.com/CYCBrian/project-1-kumamo-recipe-app)
+![Kumamo-demo](https://github.com/Nicole-Hong/culinary_curation_app/assets/130778807/8eac9ac2-1876-4d98-8fa7-d6d98ecd377e)
 
 Visit Website > [Click here](https://cycbrian.github.io/project-1-kumamo-recipe-app/)
 
